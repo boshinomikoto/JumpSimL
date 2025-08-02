@@ -1,7 +1,5 @@
 #include <iostream>
 #include <string>
-#include <cmath>
-#include <ctime>
 #include <conio.h>
 #include <Windows.h>
 
