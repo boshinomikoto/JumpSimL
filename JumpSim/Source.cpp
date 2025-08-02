@@ -8,11 +8,7 @@
 class Jump
 {
 public:
-	enum EDirection
-	{
-		STOP = 0,
-		UP
-	};
+	enum EDirection{STOP = 0, UP};
 
 	void Setup()
 	{
